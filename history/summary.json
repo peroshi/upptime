@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sparkcommunications.co.uk.ico",
     "slug": "spark-communications",
     "status": "down",
-    "uptime": "10.78%",
-    "uptimeDay": "10.78%",
-    "uptimeWeek": "10.78%",
-    "uptimeMonth": "10.78%",
-    "uptimeYear": "10.78%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-03": 0
+      "2023-07-04": 21,
+      "2023-07-03": 579
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 748,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "time": 724,
+    "timeDay": 724,
+    "timeWeek": 724,
+    "timeMonth": 724,
+    "timeYear": 724,
     "dailyMinutesDown": {}
   }
 ]
