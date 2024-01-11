@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-11": 19,
+      "2024-01-11": 1201,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
@@ -216,7 +216,7 @@
     "url": "https://www.bpho.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.bpho.org.uk.ico",
     "slug": "british-physics-olympiad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -228,6 +228,7 @@
     "timeMonth": 612,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2024-01-11": 0,
       "2024-01-09": 9,
       "2024-01-07": 8,
       "2023-12-21": 19,
